@@ -1,0 +1,16 @@
+i =  0: distance from 0.500000 to 0.000000 is 0.500000.
+i =  1: distance from 0.500000 to 0.066667 is 0.433333.
+i =  2: distance from 0.500000 to 0.133333 is 0.366667.
+i =  3: distance from 0.500000 to 0.200000 is 0.300000.
+i =  4: distance from 0.500000 to 0.266667 is 0.233333.
+i =  5: distance from 0.500000 to 0.333333 is 0.166667.
+i =  6: distance from 0.500000 to 0.400000 is 0.100000.
+i =  7: distance from 0.500000 to 0.466667 is 0.033333.
+i =  8: distance from 0.500000 to 0.533333 is 0.033333.
+i =  9: distance from 0.500000 to 0.600000 is 0.100000.
+i = 10: distance from 0.500000 to 0.666667 is 0.166667.
+i = 11: distance from 0.500000 to 0.733333 is 0.233333.
+i = 12: distance from 0.500000 to 0.800000 is 0.300000.
+i = 13: distance from 0.500000 to 0.866667 is 0.366667.
+i = 14: distance from 0.500000 to 0.933333 is 0.433333.
+i = 15: distance from 0.500000 to 1.000000 is 0.500000.

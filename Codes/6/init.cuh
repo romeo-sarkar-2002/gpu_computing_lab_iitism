@@ -1,0 +1,1 @@
+void initialData (float *ip, const int size);

@@ -1,0 +1,14 @@
+[20je0020@gr02 Exercise1]$ make run
+echo "running..."
+running...
+./a.out
+Array Size is = 20
+83 28 54 57 90 49 15 98 6 63 74 59 51 99 50 21 4 91 43 15 
+Time to do memory transfers from H2D in stream0: 0.016576 ms
+TimeElapsed in computation in stream0: 2.342336 ms
+Time to do memory transfers from D2H in stream0: 0.009792 ms
+Sum = 1050
+Time to do memory transfers from H2D in stream1: 0.009888 ms
+TimeElapsed in computation in stream1: 0.038336 ms
+Time to do memory transfers from D2H in stream0: 0.009344 ms
+Max = 99

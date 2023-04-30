@@ -1,0 +1,1 @@
+void displayMatrix(float *A, int nx, int ny);
